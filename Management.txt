@@ -1,0 +1,4 @@
+krishna,krishna@06
+Radha,Radha@12
+Rukmini,Rukmini@18
+b,1
